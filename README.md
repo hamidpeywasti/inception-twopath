@@ -1,1 +1,1 @@
-# InceptionV3 with twp path
+# InceptionV3 with two path
